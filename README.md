@@ -105,9 +105,13 @@ Transform your GitHub profile into an impressive showcase with these ready-to-co
 ```
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=dark)
+
+`![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=dark)`
 ![c](https://github.com/user-attachments/assets/9fa143f5-7e2e-401e-8c61-4553c6992378)
 
+`![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut)`
+
+![c2](https://github.com/user-attachments/assets/7804201c-3e2b-4e98-8d54-e81cecbef555)
 
 ## 🎵 Real-time Spotify
 
@@ -121,6 +125,7 @@ Transform your GitHub profile into an impressive showcase with these ready-to-co
 
 
 ## 📱 Contact & Social Networks
+
 
 ```markdown
 ## 🌐 Let's Connect!
